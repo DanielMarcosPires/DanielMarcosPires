@@ -6,12 +6,12 @@
      <hr>
     <img src="" alt="">
         <a href="https://www.alura.com.br/">
-            <img width='120px'; border-radius='30px' src="https://scontent-gru1-1.xx.fbcdn.net/v/t1.6435-9/77024474_2559062187541676_6220427419996651520_n.png?_nc_cat=101&ccb=1-7&_nc_sid=174925&_nc_ohc=IooSP91nmq8AX9qxtW7&_nc_ht=scontent-gru1-1.xx&oh=00_AT-u_lMVpYiDqSwWNbMiGLv2EhiTzfp7q5kilALHWhQZyg&oe=62D79EE5" alt="">
+            <img width='120px'; border-radius='30px' src="https://scontent-gru1-1.xx.fbcdn.net/v/t1.6435-9/77024474_2559062187541676_6220427419996651520_n.png?_nc_cat=101&ccb=1-7&_nc_sid=174925&_nc_ohc=IooSP91nmq8AX9qxtW7&_nc_ht=scontent-gru1-1.xx&oh=00_AT-u_lMVpYiDqSwWNbMiGLv2EhiTzfp7q5kilALHWhQZyg&oe=62D79EE5" alt=""><br>
              <img width='120px'; border-radius='30px' src="https://www.alura.com.br/assets/img/home/alura-logo.1647533643.svg" alt="">
         </a> 
      <hr>
         <a href="https://www.cursoemvideo.com/">
-            <img src="https://avatars.githubusercontent.com/u/8683385?s=200&v=4" alt="" width='120px'>
+            <img src="https://avatars.githubusercontent.com/u/8683385?s=200&v=4" alt="" width='120px'><br>
              <img src="https://www.cursoemvideo.com/wp-content/uploads/2019/08/cursoemvideo-logo-branca.png" alt="" width='120px'>
         </a>
      <hr>
