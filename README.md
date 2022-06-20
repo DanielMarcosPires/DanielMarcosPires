@@ -1,4 +1,4 @@
-<h1>Olá! eu sou Daniel.</h1>
+<h1>Recomendo usar dark mode na github!</h1>  
 
 <h2>🐱‍👤 Cursos que eu estou estudando: </h2>
 
@@ -23,4 +23,4 @@
       <img width=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" alt="">
 </ul>
 <hr>
-<h1>Recomendo usar Dark mode!</h1>
+
