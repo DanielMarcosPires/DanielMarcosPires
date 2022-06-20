@@ -23,3 +23,4 @@
       <img width=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" alt="">
 </ul>
 <hr>
+<h1>Recomendo usar Dark mode!</h1>
