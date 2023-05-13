@@ -4,7 +4,7 @@
 
 ###
  ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
-<img src="https://raw.githubusercontent.com/DanielMarcosPires/DanielMarcosPires/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/danielbped/danielbped/output/snake.svg" alt="Snake animation" />
 
 ###
 
