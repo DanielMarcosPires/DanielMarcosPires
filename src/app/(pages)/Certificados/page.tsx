@@ -2,6 +2,7 @@ import React from "react";
 import Form from "../../../Components/Form";
 import Input from "@/Components/Input/Input";
 import Button from "@/Components/Button/Button";
+import IconsSVG from "@/Components/Icons/IconsSVG";
 
 export default function Certificados() {
   return (
@@ -13,9 +14,18 @@ export default function Certificados() {
         <section>
           <Form>
             <Input placeholder="Pesquisar por certificado..." />
-            <div className="flex justify-center gap-2 px-5">
-              <Button variant="primary">Adicionar</Button>
-              <Button variant="secondary">Filter</Button>
+            <div className="flex justify-center text-lg gap-2 px-5">
+              <Button type="submit" variant="primary">
+                Adicionar
+              </Button>
+              <Button className="w-[80px]" type="button" variant="secondary">
+                <IconsSVG
+                  width={40}
+                  height={40}
+                  className="fill-black"
+                  iconName="Filter"
+                />
+              </Button>
             </div>
           </Form>
         </section>
