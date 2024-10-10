@@ -3,6 +3,7 @@ import Form from "../../../Components/Form";
 import Input from "@/Components/Input/Input";
 import Button from "@/Components/Button/Button";
 import IconsSVG from "@/Components/Icons/IconsSVG";
+import CardCurriculo from "@/Components/CardCurriculo/CardCurriculo";
 
 export default function Certificados() {
   return (
@@ -28,6 +29,18 @@ export default function Certificados() {
               </Button>
             </div>
           </Form>
+        </section>
+        <section>
+          <ul className="flex flex-col gap-2 py-2 px-7">
+            <div>
+              <p>Encontrado: 0/0</p>
+              <hr />
+            </div>
+            <CardCurriculo />
+            <CardCurriculo />
+            <CardCurriculo />
+            <CardCurriculo />
+          </ul>
         </section>
       </main>
     </div>
