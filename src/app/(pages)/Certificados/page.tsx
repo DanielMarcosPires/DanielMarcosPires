@@ -1,9 +1,10 @@
-import React from "react";
+import React, { Suspense } from "react";
 import Form from "../../../Components/Form";
 import Input from "@/Components/Input/Input";
 import Button from "@/Components/Button/Button";
 import IconsSVG from "@/Components/Icons/IconsSVG";
-import CardCurriculo from "@/Components/CardCurriculo/CardCurriculo";
+import Service from "./Service/Service";
+import { Loader2 } from "lucide-react";
 
 export default function Certificados() {
   return (
@@ -31,16 +32,16 @@ export default function Certificados() {
           </Form>
         </section>
         <section>
-          <ul className="flex flex-col gap-2 py-2 px-7">
-            <div>
-              <p>Encontrado: 0/0</p>
-              <hr />
-            </div>
-            <CardCurriculo />
-            <CardCurriculo />
-            <CardCurriculo />
-            <CardCurriculo />
-          </ul>
+          <Suspense
+            fallback={
+              <h2 className="flex justify-center items-center gap-4 text-2xl text-center py-5">
+                <Loader2 size={30} color="#ff0000" className="animate-spin" />
+                Loading...
+              </h2>
+            }
+          >
+            <Service />
+          </Suspense>
         </section>
       </main>
     </div>
