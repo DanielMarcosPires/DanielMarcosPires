@@ -2,6 +2,7 @@
 <h3 align="left">Estudante dedicado, com 4 anos de experiência acadêmica e em constante busca por aprendizado e desenvolvimento. Comprometido, responsável e com facilidade para trabalhar em equipe e se adaptar a novos desafios. Busco uma oportunidade para aplicar meus conhecimentos, adquirir experiência prática e contribuir positivamente com a empresa ou instituição onde estiver inserido.</h3>
 
 <h3 align="left">Connect with me:</h3>
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=DanielMarcosPires&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 <h3 align="left">Languages and Tools:</h3>
