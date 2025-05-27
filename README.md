@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Daniel Marcos Pires</h1>
-<h3 align="center">Estudante dedicado, com 4 anos de experiência acadêmica e em constante busca por aprendizado e desenvolvimento. Comprometido, responsável e com facilidade para trabalhar em equipe e se adaptar a novos desafios. Busco uma oportunidade para aplicar meus conhecimentos, adquirir experiência prática e contribuir positivamente com a empresa ou instituição onde estiver inserido.</h3>
+<h1 align="left">Hi 👋, I'm Daniel Marcos Pires</h1>
+<h3 align="left">Estudante dedicado, com 4 anos de experiência acadêmica e em constante busca por aprendizado e desenvolvimento. Comprometido, responsável e com facilidade para trabalhar em equipe e se adaptar a novos desafios. Busco uma oportunidade para aplicar meus conhecimentos, adquirir experiência prática e contribuir positivamente com a empresa ou instituição onde estiver inserido.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
