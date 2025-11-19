@@ -5,8 +5,7 @@
 
 ## Sobre mim
 
-- Estudando pela plataforma Uninove <strong>[Análise e Desenvolvimento de Sistemas]</strong> - Em formação
-- Trabalhando na Empresa G&P.
+- Estudando pela plataforma Uninove <strong>[Análise e Desenvolvimento de Sistemas]</strong> - Em formação.
 <br/>
 
 
